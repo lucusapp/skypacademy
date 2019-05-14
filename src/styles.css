@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  font-family: Ubuntu;
+}
+
+.card-deck {
+  padding: 20px;
+}
+.contenedor {
+  background: #212d40;
+  display: flex;
+  padding: 20px;
+  justify-content: space-around;
+  width: 100%;
+}
+.caja {
+  width: 100px;
+  height: 100px;
+  background: #f79256;
+  margin: 20px;
+  padding: 20px;
+  font-size: 40px;
+  color: #fff;
+}

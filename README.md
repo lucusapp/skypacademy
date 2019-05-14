@@ -1,2 +1,0 @@
-# skypacademy
-Created with CodeSandbox
